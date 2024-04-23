@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 78453d412c6094dfcba4c0c8524ef18a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leftHandSensor: {fileID: 3689987413058625477, guid: 6191b21b427b644319a471acf72418b8,
+      type: 3}
+  - rightHandSensor: {fileID: 2055883155932055789, guid: f40680be29b9c4cddb0968ffa19b316a,
+      type: 3}
+  - upperHandLocationL: {fileID: 8115955052058879111, guid: ad9dadbc0efac4e31b660d266afe9c0a,
+      type: 3}
+  - handLocationL: {fileID: 1760167100980768498, guid: 250e6e000731b481aa23b29636bcf36b,
+      type: 3}
+  - upperHandLocationR: {fileID: 1556285708932999672, guid: 182beffd9bb0f42dcbfeec1e0ecf2701,
+      type: 3}
+  - handLocationR: {fileID: 5480212197156918, guid: 2fd2394419f40472e9975d0386316e91,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
